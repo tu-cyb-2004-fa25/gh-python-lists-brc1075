@@ -8,11 +8,12 @@ print(motorcycles)
 print()
 
 #Append():                          **Adds to the end of the list*
-# motorcycles.append('kawasaki')
+motorcycles.append('kawasaki')
+print(motorcycles)
 
 # Insert():
-# motorcycles.insert(0, 'kawasaki')
-
+motorcycles.insert(0, 'kawasaki')
+print(motorcycles)
 
 
 # 2. Please double each element in the list 
